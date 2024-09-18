@@ -1,0 +1,8 @@
+a =int(input("enter first number: "))
+b =int(input("enter second number: "))
+print("ADDITION: ",a+b)
+print("SUBSTRACTION: ",a-b)
+print("MULTIPLICATION: ",a*b)
+print("DIVISION: ",a/b)
+print("FLOOR DIVISION: ",a//b)
+print("remainder: ",a%b)
